@@ -1,6 +1,6 @@
 ---
 author: student name
-title: "Altarpiece from a Monastery"
+title: "korea erring"
 layout: base
 header-image: images/han-coin-two-sides-violet.png
 thumbnail: images/han-coin-violet.png
