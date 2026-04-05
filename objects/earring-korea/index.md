@@ -4,9 +4,9 @@ title: "korea erring"
 layout: base
 header-image: ![alt text](Korean.jpg)
 thumbnail: ![alt text](Korean-1.jpg)
-summary: This image is of the Han coin, not an altarpiece from a monastery.
-geo: [47.199, 102.834]
-placename: Karakorum
+summary: This image is of korean gold errings from the Silla Kingdom
+geo: [36.52639, 128.07936]
+placename: South Korea
 tags:
   - object
 ---
