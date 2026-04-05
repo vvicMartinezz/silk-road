@@ -1,9 +1,9 @@
 ---
-author: student name
+author: victor martinez
 title: "korea erring"
 layout: base
-header-image: images/han-coin-two-sides-violet.png
-thumbnail: images/han-coin-violet.png
+header-image: ![alt text](Korean.jpg)
+thumbnail: ![alt text](Korean-1.jpg)
 summary: This image is of the Han coin, not an altarpiece from a monastery.
 geo: [47.199, 102.834]
 placename: Karakorum
