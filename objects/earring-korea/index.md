@@ -2,8 +2,8 @@
 author: victor martinez
 title: "korea erring"
 layout: base
-header-image: ![alt text](Korean.jpg)
-thumbnail: ![alt text](Korean-1.jpg)
+header-image: Korean.jpg/
+thumbnail: Korean-1.jpg/
 summary: This image is of korean gold errings from the Silla Kingdom
 geo: [36.52639, 128.07936]
 placename: South Korea
