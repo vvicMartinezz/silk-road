@@ -5,7 +5,7 @@ layout: base
 header-image: Korean.jpg/
 thumbnail: Korean-1.jpg/
 summary: This image is of korean gold errings from the Silla Kingdom
-geo: [36.52639, 128.07936]
+geo: [36.526, 128.079]
 placename: South Korea
 tags:
   - object
