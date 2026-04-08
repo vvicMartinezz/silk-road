@@ -2,7 +2,7 @@
 author: student name
 title: "China Tang Dynasty Earrings"
 layout: base
-header-image: images/china-2.jpg
+header-image: images/tang-dynasty-china.jpg
 thumbnail: images/han-coin-blushwood.png
 summary: One or two sentences about the coin but this one is not from Bukhara.
 geo: [39.877, 64.408]
