@@ -2,8 +2,8 @@
 author: victor martinez
 title: "Roman Gold Earrings"
 layout: base
-header-image: images/han-coin-two-sides-mahogany.png
-thumbnail: images/han-coin-mahogany.png
+header-image: images/![alt text](roman-1.jpg)
+thumbnail: images/![alt text](roman-2.jpg)
 summary: These earrings serve as a comparison outside the Silk Road, showing how jerelry symolized wealth in other trade systems.
 geo: [41.902, 12.496]
 placename: Rome, Italy
@@ -72,3 +72,5 @@ Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut i
 
 - Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
 - Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+
+[def]: roman.jpg
