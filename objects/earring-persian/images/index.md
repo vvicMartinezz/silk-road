@@ -8,7 +8,9 @@ summary: These earrings come from a major Silk Road trade hub that highlights th
 geo: [34.802, 48.514]
 placename: Iran
 tags:
-  - object
+  - gemstones
+  - trade-networks
+  - persia
 ---
 
 # A Monastery and Not a Coin

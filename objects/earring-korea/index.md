@@ -8,7 +8,9 @@ summary: These earrings were found in royal tombs and demonstrates advances in g
 geo: [36.526, 128.079]
 placename: South Korea
 tags:
-  - object
+  - gold
+  - elite-status
+  - korea
 ---
 
 # The Altarpiece from a Monastery

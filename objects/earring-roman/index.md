@@ -8,7 +8,9 @@ summary: These earrings serve as a comparison outside the Silk Road, showing how
 geo: [41.902, 12.496]
 placename: Rome, Italy
 tags:
-  - object
+  - mediterranean
+  - wealth
+  - roman-empire
 ---
 
 # A Monastery and Not a Coin

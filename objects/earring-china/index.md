@@ -8,7 +8,9 @@ summary: These earrings reflect the culture of the Tang Dynasty, shaped by the t
 geo: [34.341, 108.939]
 placename: Xi'an China
 tags:
-  - object
+  - silk-road
+  - cultural-exchange
+  - china
 ---
 
 # Coin that is not from Bukhara
