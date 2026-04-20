@@ -3,7 +3,7 @@ author: victor martinez
 title: "China Tang Dynasty Earrings"
 layout: base
 header-image: images/tang-dynasty-china.jpg
-thumbnail: images/han-coin-blushwood.png
+thumbnail: images/earring-china/china.jpg
 summary: These earrings reflect the culture of the Tang Dynasty, shaped by the trade on the Silk Road.
 geo: [34.341, 108.939]
 placename: Xi'an China
@@ -21,7 +21,7 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 
 
 ## Your First Section Heading
-{% include images/figure.html
+{% include images/![tang-dynasty-earrings](china.jpg)
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
