@@ -1,10 +1,10 @@
 ---
 author: victor martinez
-title: "korea erring"
+title: "Korean Silla Kingdom Gold Earring"
 layout: base
 header-image: images/Korean.jpg
 thumbnail: images/Korean-1.jpg
-summary: This image is of korean gold errings from the Silla Kingdom
+summary: These earrings were found in royal tombs and demonstrates advances in goldworking.
 geo: [36.526, 128.079]
 placename: South Korea
 tags:

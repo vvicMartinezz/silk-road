@@ -1,12 +1,12 @@
 ---
-author: student name
+author: victor martinez
 title: "China Tang Dynasty Earrings"
 layout: base
 header-image: images/tang-dynasty-china.jpg
 thumbnail: images/han-coin-blushwood.png
-summary: One or two sentences about the coin but this one is not from Bukhara.
-geo: [39.877, 64.408]
-placename: Bukhara
+summary: These earrings reflect the culture of the Tang Dynasty, shaped by the trade on the Silk Road.
+geo: [34.341, 108.939]
+placename: Xi'an China
 tags:
   - object
 ---

@@ -1,12 +1,12 @@
 ---
-author: student name
-title: "Relic from Monastery"
+author: victor martinez
+title: "Roman Gold Earrings"
 layout: base
 header-image: images/han-coin-two-sides-mahogany.png
 thumbnail: images/han-coin-mahogany.png
-summary: The image is of the Han coin, not the monastery relic.
-geo: [31.777, 35.224]
-placename: Jerusalem
+summary: These earrings serve as a comparison outside the Silk Road, showing how jerelry symolized wealth in other trade systems.
+geo: [41.902, 12.496]
+placename: Rome, Italy
 tags:
   - object
 ---
