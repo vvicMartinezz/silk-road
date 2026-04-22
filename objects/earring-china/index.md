@@ -2,8 +2,8 @@
 author: victor martinez
 title: "China Tang Dynasty Earrings"
 layout: base
-header-image: images/tang-dynasty-china.jpg
-thumbnail: images/earring-china/china.jpg
+header-image: images/china.jpg
+thumbnail: images/china.jpg
 summary: These earrings reflect the culture of the Tang Dynasty, shaped by the trade on the Silk Road.
 geo: [34.341, 108.939]
 placename: Xi'an China
