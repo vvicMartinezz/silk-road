@@ -13,14 +13,14 @@ tags:
   - korea
 ---
 
-# The Altarpiece from a Monastery
+# Silla Gold Earrings(Korea)
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+These earrings from the Silla Kingdom (5th century CE) offers great insight into the elite culture and long distance extange in early Korea. Excavated primarily from royal tombms in Gyeongju, these earrings were not simply decorative but founctioned as markers of social status and political authority in borader Eurasian networks od exchange. 
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+The use of gold, is shown as a highly valued material that immediately singals the wealth and power of the people who wore them.
 
 
-## Your First Section Heading
+## Craftsmanship and Elite Identity
 {% include images/figure.html
 class="right"
 width="48%"
@@ -28,9 +28,9 @@ caption="This is a right-aligned image that takes up roughly half the page width
 image-path="images/han-coin-violet.png"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+Although Korea is geographically distant from the central Silk Road routes, these earrings suggest use in thoes networks. Trade routes extending from China into the Korean coast allowed for the movement of good and materials. Gold, itself, circulated across these regions through long distance trade and contact with other civilizations.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+The influence of foreign styles in Silla jewelry highlights the role of reagons like China nd Central Asia in transmitting artistic traditions[^randomthing]
 
 [^randomthing]:Put your source information here.
 
@@ -41,10 +41,10 @@ Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed 
 [^anotherrandomthing]:Put your next footnote source information here.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## Borader Significance
+Silla gold earrings demonstrate how luxury objects can serve as evidence of both local social structuers and global connections. 
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+They reveal how elite idenity was constructed through material curlture and how distant societies around were linked through networks of exchange. By looking at and examining these objects and earrings, we she how historians can better understand how the Silk Road functioned not just as a trade route, but as a system of cultural sending or transporting.
 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
 
@@ -72,5 +72,5 @@ Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut i
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Lee, Soyoung. Silla: Korea’s Golden Kingdom. New York: Metropolitan Museum of Art, 2013.
+- Nelson, Sarah M. The Archaeology of Korea. Cambridge: Cambridge University Press, 1993.
