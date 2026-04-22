@@ -21,11 +21,11 @@ Tang earrings frequently uses design elements that were origianted outside of Ch
 
 
 ## 
-{% include images/![tang-dynasty-earrings](china.jpg)
+{% include images/figure.html
 class="right"
 width="48%"
 caption="Silla gold earrings with danfling ornaments from the SIlla Kingdom. [Source](https://www.metmuseum.org/art/collection/search/60826)"
-image-path="images/!(china.jpg)"
+image-path="images/china.jpg"
 %}
 
 ## Trade Networks
