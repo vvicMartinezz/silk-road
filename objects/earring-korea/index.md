@@ -32,13 +32,7 @@ Although Korea is geographically distant from the central Silk Road routes, thes
 
 The influence of foreign styles in Silla jewelry highlights the role of reagons like China nd Central Asia in transmitting artistic traditions[^randomthing]
 
-[^randomthing]:Put your source information here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
 
 
 ## Borader Significance
@@ -59,14 +53,14 @@ The pull quote you just saw is created with a simple `include` command in Markdo
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://www.metmuseum.org/art/collection/search/44813)" image-path="images/Korean.jpg" %}
+## One of One Earrings
+{% include images/figure.html class="right" width="60%" caption="This image is of the Three Kingdoms period, Silla Kingdom (57 BCE–676 CE). [Source](https://www.metmuseum.org/art/collection/search/44813)" image-path="images/Korean.jpg" %}
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+The earrings to the right is of Silla golden earrings from the 5th century. Golden earring were worn by men and women in Korea for the big major elites. 
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
+These earrings stood out to me a lot mainly because of the tiny gold beads you can see lining the outside of the object. You can see four different pieces all being chained together to make this beautiful dangling earring they have on display today.
 
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+This really makes me appreciate these goldsmith workers back then because they were doing this with less resources we have now. The designs of the Silla kingdom was important in building route all along the Silk Road.
 
 ---
 
