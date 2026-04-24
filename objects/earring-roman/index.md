@@ -2,8 +2,8 @@
 author: victor martinez
 title: "Roman Gold Earrings"
 layout: base
-header-image: images/![alt text](roman-1.jpg)
-thumbnail: images/![alt text](roman-2.jpg)
+header-image: images/roman.jpg
+thumbnail: images/roman.jpg
 summary: These earrings serve as a comparison outside the Silk Road, showing how jerelry symolized wealth in other trade systems.
 geo: [41.902, 12.496]
 placename: Rome, Italy
@@ -25,7 +25,7 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-mahogany.png"
+image-path="images/roman.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.

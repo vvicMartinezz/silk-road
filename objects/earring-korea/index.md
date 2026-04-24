@@ -3,7 +3,7 @@ author: victor martinez
 title: "Korean Silla Kingdom Gold Earring"
 layout: base
 header-image: images/Korean.jpg
-thumbnail: images/Korean-1.jpg
+thumbnail: images/Korean.jpg
 summary: These earrings were found in royal tombs and demonstrates advances in goldworking.
 geo: [36.526, 128.079]
 placename: South Korea
@@ -25,7 +25,7 @@ The use of gold, is shown as a highly valued material that immediately singals t
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-violet.png"
+image-path="images/Korean.jpg"
 %}
 
 Although Korea is geographically distant from the central Silk Road routes, these earrings suggest use in thoes networks. Trade routes extending from China into the Korean coast allowed for the movement of good and materials. Gold, itself, circulated across these regions through long distance trade and contact with other civilizations.
