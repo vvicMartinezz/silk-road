@@ -33,13 +33,6 @@ Luxury items includings gold, silver, and precious stones were often traded alon
 
 Jeweley represented a tangible link between China and the rest of the world, through which the conutry showcased it's international presence we know today.[^randomthing]
 
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
 
 
 ## Significance
@@ -57,14 +50,14 @@ The pull quote you just saw is created with a simple `include` command in Markdo
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://www.metmuseum.org/art/collection/search/60826)" image-path="images/china.jpg" %}
+## Women Shaped Earrings
+{% include images/figure.html class="right" width="60%" caption="This image shows earrings from the Tang dynasty 618–907. [Source](https://www.metmuseum.org/art/collection/search/60826)" image-path="images/china.jpg" %}
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+The image to the right is pair of earring from the Tang Dynasty. These earrings are gorgeous but couldn't imagine how every they would be, maybe only being worn on special occations or events. 
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
+These earrings used to be gold but over these many years tarnished away and looks like we see it today. This could also be because some ancient Chinese gold had a higher silver conten, making it look silver.
 
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+We see that they are shaped like a women because the Tang Dynasty's jewelry carried symbolic and cultural meanings. The Tang era was known for the celebration of women beauty. They are often shown as graceful, fashionable, and powerful which I bevieve these earrings showcase.
 
 ---
 
