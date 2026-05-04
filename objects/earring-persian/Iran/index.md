@@ -13,7 +13,7 @@ tags:
   - persia
 ---
 
-# Parthian Gold and Turquoise(Persia)
+# Parthian Gold and Turquoise (Persia)
 
 Parthian earrings from the 2nd century show the importance of Persia as a central hub for trade in the Silk Road network.
 
@@ -44,7 +44,7 @@ These earrings show the important nature of ancient economies we studied and dem
 
 Due to their control over the trade networks, parthian elites could incorporate multiple products into their lives and shape their distribution patterns. 
 
-This was very important for the creation of many forms of art with mixed influences from other parts of the world. Jewelry like this show this phenomenon well.
+This was very important for the creation of many forms of art with mixed influences from other parts of the world. Jewelry like this shows this phenomenon well.
 
 ## Material Symbolism
 {% include images/figure.html class="right" width="60%" caption="Medium: SIlver, coral, glass, turquoise, pearls.[Source](https://www.metmuseum.org/art/collection/search/444686)" image-path="images/persian.png"
@@ -52,15 +52,16 @@ This was very important for the creation of many forms of art with mixed influen
 
 The image to the right shows  some amazing parthian that were "worn as part of an ensemble of jewels" The amount of different gemstones on these earrings showcases just how much goods they had in Bukhara. 
 
-We see how gold and turquoise are used to create thses earrings, but their use is not only showing their artistic choices but their envolment in these valued systems that spanned over many regions along the Silk Road.
+We see how gold and turquoise are used to create these earrings, but their use is not only showing their artistic choices but their involvement in these valued systems that spanned over many regions along the Silk Road.
 
-For example, turquoise is a valuable material that carries ways of prestige and was commonly traded.
+For example, turquoise is a valuable material that carries ways of prestige and is commonly traded.
 
 I learned that coral came from many different places like India, China, and even the Mediterranean sea.
 
 These earrings are one of one because it has seed pearls, which was only found in the Persian Gulf. The earring stood out to me because they are so vibrant, basically due to the beads of glass that were used.
 
-These earrings show the importance of intermediary states in the history of humanity overall. Unlink passive intermediries, ancient empires such as the Parthias had the ability to manipulate the flow of resources and cultural products. 
+These earrings show the importance of intermediary states in the history of humanity overall. Unlike passive intermediries, ancient empires such as the Parthias had the ability to manipulate the flow of resources and cultural products.
+
 ---
 
 ## Bibliography
