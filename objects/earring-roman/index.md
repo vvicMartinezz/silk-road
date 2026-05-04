@@ -19,8 +19,10 @@ The Roman gold earrings you see are from the 1st and 3rd centuries CE which prov
 
 While the Roman Empire was not a direct part of the Silk Road, but is was connected through Eurasian trade networks by their involvement with near the east.
 
+The Romans abiltiy to acquire goods such as gems and silk involved networks which extended further than their territorial limits. Such items would have had to go through several stages to make it to the Mediterranean world.
 
-## Your First Section Heading
+
+## Indirect Global Connections
 {% include images/figure.html
 class="right"
 width="48%"
@@ -33,10 +35,12 @@ In the Roman society, jewelry was used as a key marker of wealth and social stat
 Some roman merchants imported luxury things and goods like silk and gemstones from the East.
 
 
-## Significance
+## Historical Significance
 These Roman earrings show how similar patterns of luxury consumption exised outside of the Silk Road.
 
-I think that by comparing these objects, it becomes more clear that in different regions followed these interconnected systems of cultual exchange and trade.
+I think that by comparing these objects, it becomes more clear that in different regions followed these interconnected systems of cultual exchange and trade. A comparison between objects like these from the Roman society and the regions of the Silk Roads reveals similarity's and differences
+
+Examples of Roman earrings provide proof that global connections were not restricted to a single network, like Silk Road networks. Rather than several networks which operated together to show how global connections and exchanges. 
 
 
 ## Twisted Gold Earrings
@@ -54,5 +58,3 @@ Looking at many objects from the Roman Emipre, it allowed me to see why these we
 
 - Boardman, John. The Oxford History of Classical Art. Oxford: Oxford University Press, 1993
 - Mattingly, David. Imperialism, Power, and Identity. Princeton: Princeton University Press, 2011.
-
-[def]: roman.jpg

@@ -30,13 +30,17 @@ image-path="images/Korean.jpg"
 
 Although Korea is geographically distant from the central Silk Road routes, these earrings suggest use in thoes networks. Trade routes extending from China into the Korean coast allowed for the movement of good and materials. Gold, itself, circulated across these regions through long distance trade and contact with other civilizations.
 
-The influence of foreign styles in Silla jewelry highlights the role of reagons like China nd Central Asia in transmitting artistic traditions[^randomthing]
+The influence of foreign styles in Silla jewelry highlights the role of reagons like China nd Central Asia in transmitting artistic traditions
 
 
 ## Borader Significance
 Silla gold earrings demonstrate how luxury objects can serve as evidence of both local social structuers and global connections. 
 
 They reveal how elite idenity was constructed through material curlture and how distant societies around were linked through networks of exchange. By looking at and examining these objects and earrings, we she how historians can better understand how the Silk Road functioned not just as a trade route, but as a system of cultural sending or transporting.
+
+These earrings indicate how remote areas took part in these exchange systems that go further than their boundaries. The use of the earrings show how the Silk Road impacted not only regions directly linked with it's network.
+
+Although the earrings may have been inspired by foreign traditions, the shapes and proportions show a level of adaptation unique to Korea. These earrings represent an application of foreign knowledge into the local context. We see this though the active interpretation of the foreign techniques rather than some adoption of the earrings.
 
 
 ## One of One Earrings

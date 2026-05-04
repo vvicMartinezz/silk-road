@@ -19,8 +19,8 @@ Tang Dynasty earrigns (7th-9th centuries CE) are examples of the multiculturalis
 
 Tang earrings frequently uses design elements that were origianted outside of China, including things like looped shapes with gemstones. These are mainly associated with Central Asian and Persian craftsmanship. While these styles show the extent of how  foreign influences shaped Chinese artistic production during this period.
 
+The Creation of gold earrings had much to do with economic and political factors like wealth distribution. Materials like gold could only be achieved through participation in international trading systems throughout Eurasia. Earrings can aslo be viewed as representations of enonomic and political stability.
 
-## 
 {% include images/figure.html
 class="right"
 width="48%"
@@ -28,15 +28,21 @@ caption="Silla gold earrings with danfling ornaments from the SIlla Kingdom. [So
 image-path="images/china.jpg"
 %}
 
+
 ## Trade Networks
 Luxury items includings gold, silver, and precious stones were often traded along the Silk Road to reach China. Once these resources were obtained, they would be crafted ino=to these objects to be worn by many high status individuals in the Chinese court.
 
-Jeweley represented a tangible link between China and the rest of the world, through which the conutry showcased it's international presence we know today.[^randomthing]
+Jeweley represented a tangible link between China and the rest of the world, through which the conutry showcased it's international presence we know today.
+
+We see how cities like Chang'an served as crossroads of exchange for products and thoughts. This reflects the fact that the craftsmen belonged to a very diverse culture, with different artistic styles serving as their inspiration. 
 
 
-
-## Significance
+## Historical Significance
 By examining Tang Dynasty earrings, we are provided with an understanding of how a civilization that actively exchanged cultures could influence art and even business. 
+
+Tang earrings show the importance of cultural interchange taking place under thse certain socio economic conditions. 
+
+It shows that the evolution of art is associated with certain processes of interchange. with the help of these objects, historians gain a better insight into how the impact that global trade had on the economy and culture of societies. 
 
 
 ## Women Shaped Earrings
