@@ -30,13 +30,7 @@ image-path="images/roman.jpg"
 
 In the Roman society, jewelry was used as a key marker of wealth and social status. We see that gold earrings were widely worn by elite women and they served as a visible factor that had economic power or status.
 
-Some roman merchants imported luxury things and goods like silk and gemstones from the East. [^randomthing]
-
-[^randomthing]:Put your source information here.
-
-Although thses goods were often passed through many different traders, they still show us the existence of long distance connections between Asia and the Mediterranean.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
+Some roman merchants imported luxury things and goods like silk and gemstones from the East.
 
 
 ## Significance
@@ -45,16 +39,7 @@ These Roman earrings show how similar patterns of luxury consumption exised outs
 I think that by comparing these objects, it becomes more clear that in different regions followed these interconnected systems of cultual exchange and trade.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
-
-{% include typography/aside.html class="right" text="Jewelry in the Roman world reflected both personal identity and participation in global trade networks." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
+## Twisted Gold Earrings
 {% include images/figure.html class="right" width="60%" caption="This image is of a pair of gold earrings from the 1st and 3rd century of Rome. [Source](https://www.metmuseum.org/art/collection/search/246760)" image-path="images/roman.jpg" %}
 
 The image to the right is golden hoop roman earrings. They are "in the form of rings of twisted gold." 

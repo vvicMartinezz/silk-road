@@ -39,17 +39,6 @@ Jeweley represented a tangible link between China and the rest of the world, thr
 By examining Tang Dynasty earrings, we are provided with an understanding of how a civilization that actively exchanged cultures could influence art and even business. 
 
 
-
-
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
-
-{% include typography/aside.html class="right" text="The Tang Dynasty was one of the most cosmopolitan periods in Chinese history, shaped by Silk Road exchange." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
 ## Women Shaped Earrings
 {% include images/figure.html class="right" width="60%" caption="This image shows earrings from the Tang dynasty 618–907. [Source](https://www.metmuseum.org/art/collection/search/60826)" image-path="images/china.jpg" %}
 
