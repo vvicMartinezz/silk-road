@@ -15,7 +15,7 @@ The pieces  of embellishments were not just used for decoration and showing thie
 
 
 ## Foreign Influence and Cultural Blending
-{% include images/china.jpg
+{% include images/figure.html
 class="right"
 width="48%"
 caption="Tang Dynasty jewelry reflects foreign influence materials and techniques. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
