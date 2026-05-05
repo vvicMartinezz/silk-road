@@ -1,103 +1,72 @@
 ---
-author: student name
-title: "Camels on the Silk Road Trade Network"
+author: victor martinez
+title: "Tang Dynasty Earrings and Silk Road Exchange"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-gray.png
-summary: In the premodern era, camels were key to the functioning of the Silk Road Trade Network.
+header-image: images/china.jpg
+thumbnail: images/china.jpg
+summary: Tang Dynasty jewelry reflects the cultural exchange and global connect.
 ---
 
-# Example Thematic Essay
+# Embellishing and Exchange on the Silk Road
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page. In the Amaranth documentation for website building, this type of essay is called a **Seedling.**
+The Tang Dynasty **(618-907 CE)** is a period in the history of China characterized by high degrees of culture due to the openness of many other cultures and involvement in the activities of the Silk Road. Jewelry, especially earrings made from gold and other pieces of this kind, can serve as an example to consider in order to examine the intercultural communication process that happened during this period.
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+The pieces  of embellishments were not just used for decoration and showing thier status but served as material proof of extensive trade and art merging processes.
 
 
-## Your First Section Heading
-{% include images/figure.html
+## Foreign Influence and Cultural Blending
+{% include images/china.jpg
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva.jpg"
+caption="Tang Dynasty jewelry reflects foreign influence materials and techniques. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
+image-path="images/china.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+Foreign elements were evident in Tang dynasty jewelry through the materials used and the craftsmanship techniqes. for example the use of lapis lazuli in jewelry although not shown in my object, shows the upperclass and suggests that there was extensive trade along far distances, as the stone was not known to be found in China but obtained from distant areas like Afghanistan. In fact throught out my research one study from **JSTOR** that reveals “lapis lazuli… is not indigenous; rather, its major source of supply is Badakhshan in Afghanistan”(Xiong and Laing 1993,165). 
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+The fact that the jewelry made use of such imported materials indicated that the Tang dynasty elites took part in international trade. The jewelry did not involve only the use of indigenous materials but was also dependent on trade. the use of these materials had significance for the culture of the users they encountered[^randomthing]
 
 [^randomthing]:Put your source information here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+[^anotherrandomthing]
 
 [^anotherrandomthing]:Put your next footnote source information here.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## Techniques and the Movement of Knowledge
+The impact of the other civilizations can be seen in the techniques used to creat tang Dynasty jewelry. Granulation and intaglio engravinf were techniques that were not native to China bur rather learned from interaction with other civilizations from the west. Its show how intaglio engraving was practiced as the third millennium in Iran and often Messopotamia, and was also a popularmethod of cutting gemstones. 
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+The use of these techniques suggests that the trade route allowed for not just the exchange of matterials but also the sharing of specialized knowledge. In China, artist had the ability to learn and implement different techniques from other civilization to incorporate into their work, creating hybrid styles that drew from many cultures.
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+It is clear to see this technologu tranfer is the creation of gold beads and decoration seen in some high end jewe;ry. These tices oftem have similar design elements to areas as far away as India and even the Mediterranean world.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
-
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content.  [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva.jpg" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+image-path="images/china.jpg" %}
 
 
-## The Rhythm of an Essay on a Webpage
-By now you've scrolled through several sections and noticed the **rhythm** of a ScrollStory: heading, text, image, text, pull quote, text. This creates a visual cadence that keeps readers engaged without overwhelming them.
+## Trade Networks and Material Circulation
+I got to see how the widespread distribution of similar jewelry forms across Eurasis shows further evidence of interconnected trade natworks.The gold polyhedral beads your see for example, have been found in many different areas from China spaning to Southeast Asia having read about “these locations suggest that the beads travelled along the established sea route from India via Indochina to reach China(Xiong and Laing 1993, 169).
 
-**For your own essay:** Think about pacing. Where do readers need a visual break? Where should an image reinforce your argument? When does a pull quote emphasize a key point? These decisions make the difference between a wall of text and an engaging narrative.
+This passege highlights the significance of maritime passages along with overland routes of the Silk Road. The Silk Road was considered a route for overland trade however, maritime passages were equally important in transporting luxury goods like jewels and gemstones. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Aliquam in sapien mauris. Aliquam erat volutpat.
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida.
+The distribution of these goods shows that tang China was an important part of a huge trading networks that involved many different regions. The goods passed from one region to another by making stops at different places.
 
 
-## Block Quotes for Extended Quotations
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra.
+## Jewelry as a Marker of Social Identity
+Apart from being an indicator of international links, Tang jewelry was also a symbol of social identity. The use of precious metals, pearls, and gems indicated high social standing and set these people apart from the rest of society. On the other hand, the adoption of exotic stykes, implies that cultural openness may have been a mark of prestige in its own right.
 
-> This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
-
-Block quotes work well when you want to quote an entire paragraph or passage, while pull quotes are better for short, punchy excerpts you want to highlight visually.
+This can be attested to by historical accounts regarding clothing and other decorations or embellishments. A one example, historical sources describe the way elites wore lavish ornaments, highlighting their social standing. as noted by “kings and their ministers are clad in extravagantly decorated costumes… with tasselled bracelets and armlets as body ornaments"(Xiong and Laing 1993, 164). This shows the significance of visual representation in the expression of power and identity. The Jewelry was not just ornamental, it is actively participated in the expression of status and culture.
 
 
-## What You've Learned So Far
-If you can create this Seedling essay, you can:
-- Structure content with section headings
-- Add images with captions and source links
-- Include footnotes for citations
-- Use pull quotes for emphasis
-- Format block quotes for extended quotations
-- Control image sizes and placement
+## Conclusion
+The earrings from the Tang Dynasty and other pieces of jewelry demonstrate the close relationship between the people of the Silk Road. The use of exotic materials, skills, and aesthetics illustrates how the exchage of cultures influenced material life in medieval China.
 
-**That's enough to create compelling digital scholarship.** The Sapling and Forest essays add more sophisticated features, but this foundation works for most student projects and many professional ones too.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula.
+Such items as jewelry demonstrate the importance of the jewelry art an indicator of social stratification. The analysis of the earrings and other jewelry from the perspective of history shows the importance of understanding the Silk Road as not just trading routes but as as interaction process.
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Xiong, Victor Cunrui, and Ellen Johnston Laing. "Foreign Jewelry in Ancient China." Bulletin of the Asia Institute 5 (1991): 163-173.
+- Zhao, Qiwang. "Research on the Origin and Development of Hair Band Custom in Tang Dynasty." (2019).
