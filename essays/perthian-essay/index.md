@@ -1,103 +1,72 @@
 ---
-author: student name
-title: "Camels on the Silk Road Trade Network"
+author: victor martinez
+title: "Parthian Trade, Identity, and Cultual Influence"
 layout: base
 header-image: images/Persia.png
 thumbnail: images/Persia.png
 summary: In the premodern era, camels were key to the functioning of the Silk Road Trade Network.
 ---
 
-# Example Thematic Essay
+# Parthian Jewelry: Trade, Identity, and Cultual Influence
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page. In the Amaranth documentation for website building, this type of essay is called a **Seedling.**
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+Thought researching many peices of jewelry on the Silk Road we see how they show more then just emelishments. They are used as a symbol of wealth and culture. These ancient artifacts like jewelry and earrings found in Palmyra. This was a trading center for many in the Near East during the Parthian era, show how they combined multipule styles from other locations and periods on the Silk Road. There have been many pieces of of jewelry that have benn preserved to this day that can teach us about the past through their scultures and burials. 
 
 
-## Your First Section Heading
+
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/Persia.png"
+caption="These are an example of how they would see the earring. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
+image-path="images/statue1.png"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+The first major problem with trying to research any kind of jewelry from Parthia or Palmyra is hard because there were not many peices that survived. Although this was a challenge, there is a huge amount of stone sculptures that show busts with depictions of elaborate embelishments. These sculptures are not that important but serve as a visual representation of how the jewelry and kind of earrings they wore at that time.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+This article from D. Mackay states " remarkably little has survived of the jewellery worn by the women of Palmyra… however sculptured representation and provide important evidence” (Mackay 1949, 161). These sculptures show earrings, necklaces, and other ornamental goods. This allowed for historians to study things like trends and fashion despite then not have many of these artifacts physicaly.[^randomthing]
 
 [^randomthing]:Put your source information here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+These sculptures were put into use within tombs as tombstone seals like we along the Silk Road. This shows that there could be found not only insciptions but also portraits that allowed researchers to indentify certain cultural fashion choices. Show how such scultures show of of the best sources of information about Partian jewelry
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+## Jewelry as a Sign of Wealth and Status
+As we seen before travling along the Silk Road, it is clear that jewlery was always a sign of wealth and social status, particularly with women.
+
+According to Mackay "the women of the later days of Palmyra’s period of great wealth so loved a rich display of jewellery as to have themselves represented after death wearing all they owned” (Mackay 1949, 163). This shows that jewelry was not only for regular use but also used in memorials[^anotherrandomthing]
 
 [^anotherrandomthing]:Put your next footnote source information here.
 
-
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+Some statues also show women wearing many good like earrings and necklaces together. It means that wealth played a key role in the identies of the people of Palmyra, particulary when it became a known trade center. 
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Trade and Cultural Exchange
 
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+This civilization was situated perfecly at a strategic location on the route linking all the way from Rome to Asia. This was important because it was responsibe fro the involving many different cultures into the traditions of jewelry wearing. The materials and designs how all their influence from these veries cultures. 
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+{% include typography/aside.html class="right" text="important evidence of the wide-flung commercial relations of that city." %}
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+This quote you see implies that jewelry of this civilization used many elements from places like Persia, Rome, and other civilization we studied throughtout the semester.There were a variety of names in inscription, ranginf from Greek, Roman, Persian, among others, is an indication of the influence of various cultuers. I assum that jewelry styles moved along with commercial merchandise, with accounts for the influance of all the cultures they ran across throughtout the years. 
 
-## Images Can Be Different Widths
+
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content.  [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/Persia.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+image-path="images/statue2.png" %}
 
 
-## The Rhythm of an Essay on a Webpage
-By now you've scrolled through several sections and noticed the **rhythm** of a ScrollStory: heading, text, image, text, pull quote, text. This creates a visual cadence that keeps readers engaged without overwhelming them.
 
-**For your own essay:** Think about pacing. Where do readers need a visual break? Where should an image reinforce your argument? When does a pull quote emphasize a key point? These decisions make the difference between a wall of text and an engaging narrative.
+## Burial Practices and Loss of Artifacts
+It is is impotant to know why they is a lack of perserved jewlery is because of their downfall of Palmyra. It was conquered by the romans, and it totally ruined their economy. We see how its tombs would be desecrated and any valuable items found like jewelry would have been destroyed. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Aliquam in sapien mauris. Aliquam erat volutpat.
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida.
+Additionlly, the tombs of Palmyra were also robbed, which resulted in all these missing goods. Most of the research I did showed me how these archaeologist must just indirect evidence for their information like the scultures we see. This may seen un reasonale but the every little detail does a great job at offering the information about these lost goods from the era.
 
 
-## Block Quotes for Extended Quotations
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra.
+## Changing Styles Over Time
+The jewelry of Palmyra evolved throught time showing how changes in their culture and trade of the time. The jewelry designs from back in the day were pretty simple if you compare them to the jewlery disigns that became complicated later on. Mackey also mentions how there can be evidence of a gradual change from the simplicity of ornament... to the more elaborate style of Period III” (Mackay 1949, 165). I think this hsows how these changes reflect a bigger connection with all the other civilizations we studied on the Silk Road.
 
-> This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
-
-Block quotes work well when you want to quote an entire paragraph or passage, while pull quotes are better for short, punchy excerpts you want to highlight visually.
-
-
-## What You've Learned So Far
-If you can create this Seedling essay, you can:
-- Structure content with section headings
-- Add images with captions and source links
-- Include footnotes for citations
-- Use pull quotes for emphasis
-- Format block quotes for extended quotations
-- Control image sizes and placement
-
-**That's enough to create compelling digital scholarship.** The Sapling and Forest essays add more sophisticated features, but this foundation works for most student projects and many professional ones too.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula.
+## Conclusion
+I think all these peices of jewelry that belonged to the Parthians and Palmyrenes show and offer soke great insight into how their culture. From these sculptures and the history behind the jewelry, we can learn about jewelry and how it sybolizes wealth, culture, and identity. The jewelry that was worn by the Palmyra is characterized by different influences from allow along the Slik Road from their important trade hub. Even if we don't have some of these artifacts or goods, we still get the important information that is needed. The connections of this culture and how jewelry was a vital part of it.
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Foietta, Enrico. "Jewels with stone inlays from Hatra." Parthica: incontri di culture nel mondo antico: 16, 2014 (2014): 165-192.
+- Fabrègues, Chantal. "Taxila Earrings of Achaemenid Derivation." Journal of Inner Asian Art and Archaeology 1, no. 1 (2006): 71-79.
