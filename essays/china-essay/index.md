@@ -18,19 +18,19 @@ The pieces  of embellishments were not just used for decoration and showing thei
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Tang Dynasty jewelry reflects foreign influence materials and techniques. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
+caption="Tang Dynasty jewelry reflects foreign influence materials and techniques. [Source](https://www.metmuseum.org/art/collection/search/60826)"
 image-path="images/china.jpg"
 %}
 
-Foreign elements were evident in Tang dynasty jewelry through the materials used and the craftsmanship techniques. For example the use of lapis lazuli in jewelry, although not shown in my object, shows the upperclass and suggests that there was extensive trade along far distances, as the stone was not known to be found in China but obtained from distant areas like Afghanistan. In fact throughtout my research one study from **JSTOR** reveals that “lapis lazuli… is not indigenous; rather, its major source of supply is Badakhshan in Afghanistan”(Xiong and Laing 1993,165). 
+Foreign elements were evident in Tang dynasty jewelry through the materials used and the craftsmanship techniques. For example the use of lapis lazuli in jewelry, although not shown in my object, shows the upperclass and suggests that there was extensive trade along far distances, as the stone was not known to be found in China but obtained from distant areas like Afghanistan. In fact throughout my research one study from **JSTOR** reveals that “lapis lazuli… is not indigenous,  rather, its major source of supply is Badakhshan in Afghanistan”(Xiong and Laing 1993,165). 
 
 The fact that the jewelry made use of such imported materials indicated that the Tang dynasty elites took part in international trade. The jewelry did not involve only the use of indigenous materials but was also dependent on trade. The use of these materials had significance for the culture of the users they encountered.[^randomthing]
 
-[^randomthing]:Put your source information here.
+[^randomthing]:Xiong, Victor Cunrui, and Ellen Johnston Laing. "Foreign Jewelry in Ancient China." Bulletin of the Asia Institute 5 (1991): 163-173..
 
 [^anotherrandomthing]
 
-[^anotherrandomthing]:Put your next footnote source information here.
+[^anotherrandomthing]:Xiong, Victor Cunrui, and Ellen Johnston Laing. "Foreign Jewelry in Ancient China." Bulletin of the Asia Institute 5 (1991): 163-173.
 
 
 ## Techniques and the Movement of Knowledge
@@ -38,15 +38,15 @@ The impact of the other civilizations can be seen in the techniques used to crea
 
 The use of these techniques suggests that the trade route allowed for not just the exchange of materials but also the sharing of specialized knowledge. In China, artists had the ability to learn and implement different techniques from other civilizations to incorporate into their work, creating hybrid styles that drew from many cultures.
 
-It is clear to see this technology transfer is the creation of gold beads and decoration seen in some high end jewe;ry. These pieces  often have similar design elements to areas as far away as India and even the Mediterranean world.
+It is clear to see this technology transfer is the creation of gold beads and decoration seen in some high end jewelery.  These pieces  often have similar design elements to areas as far away as India and even the Mediterranean world.
 
 
-{% include images/figure.html class="right" width="60%" caption="This image shows Tang dynasty earrings from (618–907).  [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
+{% include images/figure.html class="right" width="60%" caption="This image shows Tang dynasty earrings from (618–907).  [Source](https://www.metmuseum.org/art/collection/search/60826)"
 image-path="images/china.jpg" %}
 
 
 ## Trade Networks and Material Circulation
-I got to see how the widespread distribution of similar jewelry forms across Eurasia shows further evidence of interconnected trade networks. The gold polyhedral beads your see for example, have been found in many different areas from China spanning to Southeast Asia having read about “these locations suggest that the beads travelled along the established sea route from India via Indochina to reach China(Xiong and Laing 1993, 169).
+I got to see how the widespread distribution of similar jewelry forms across Eurasia shows further evidence of interconnected trade networks. The gold polyhedral beads you see for example, have been found in many different areas from China spanning to Southeast Asia having read about “these locations suggest that the beads travelled along the established sea route from India via Indochina to reach China(Xiong and Laing 1993, 169).
 
 This passage highlights the significance of maritime passages along with overland routes of the Silk Road. The Silk Road was considered a route for overland trade however, maritime passages were equally important in transporting luxury goods like jewels and gemstones. 
 
