@@ -62,9 +62,8 @@ For instance, in Korea, a culture can be found with symbols related to the conce
 
 
 {% assign images =
-"images/ota-gate-demo-brown.png,
-images/ota-gate-demo-gray.png,
-images/ota-gate-demo-green.png" | split: ','
+"images/SIlla2.png,
+images/silla1.png" | split: ','
 %}
 
 {% include images/carousel.html
