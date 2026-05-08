@@ -28,9 +28,6 @@ The fact that the jewelry made use of such imported materials indicated that the
 
 [^randomthing]:Xiong, Victor Cunrui, and Ellen Johnston Laing. "Foreign Jewelry in Ancient China." Bulletin of the Asia Institute 5 (1991): 163-173..
 
-[^anotherrandomthing]
-
-[^anotherrandomthing]:Xiong, Victor Cunrui, and Ellen Johnston Laing. "Foreign Jewelry in Ancient China." Bulletin of the Asia Institute 5 (1991): 163-173.
 
 
 ## Techniques and the Movement of Knowledge
@@ -52,6 +49,10 @@ This passage highlights the significance of maritime passages along with overlan
 
 The distribution of these goods shows that tang China was an important part of a huge trading network that involved many different regions. The goods passed from one region to another by making stops at different places.
 
+[^anotherrandomthing]
+
+[^anotherrandomthing]:Xiong, Victor Cunrui, and Ellen Johnston Laing. "Foreign Jewelry in Ancient China." Bulletin of the Asia Institute 5 (1991): 163-173.
+
 
 ## Jewelry as a Marker of Social Identity
 Apart from being an indicator of international links, Tang jewelry was also a symbol of social identity. The use of precious metals, pearls, and gems indicated high social standing and set these people apart from the rest of society. On the other hand, the adoption of exotic styles implies that cultural openness may have been a mark of prestige in its own right.
@@ -62,7 +63,7 @@ This can be attested to by historical accounts regarding clothing and other deco
 ## Conclusion
 The earrings from the Tang Dynasty and other pieces of jewelry demonstrate the close relationship between the people of the Silk Road. The use of exotic materials, skills, and aesthetics illustrates how the exchange of cultures influenced material life in medieval China.
 
-Such items as jewelry demonstrate the importance of the jewelry art as an indicator of social stratification. The analysis of the earrings and other jewelry from the perspective of history shows the importance of understanding the Silk Road as not just trading routes but as as interaction process.
+Such items as jewelry demonstrate the importance of the jewelry art as an indicator of social stratification. The analysis of the earrings and other jewelry from the perspective of history shows the importance of understanding the Silk Road as not just trading routes but as an interaction process.
 
 ---
 
