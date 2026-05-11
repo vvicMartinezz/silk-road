@@ -16,7 +16,7 @@ As evidenced by the history of the Silla kingdom, it can be stated that the cult
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Right-aligned images still work exactly like Seedling. You already know this pattern. [Source](https://www.metmuseum.org/art/collection/search/44813)"
+caption="A pair of one of one earrings from the Silla Kingdom worn by men and women. [Source](https://www.metmuseum.org/art/collection/search/44813)"
 image-path="images/Korean.jpg"
 %}
 
