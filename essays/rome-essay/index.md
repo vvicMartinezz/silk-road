@@ -2,7 +2,7 @@
 author: victor martinez
 title: "Nabataean and Syro-Roman Earrings"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
+header-image: images/romeheading.png
 thumbnail: images/roman.jpg
 summary: Roman jewelry is a symbol showing wealth and status.
 ---

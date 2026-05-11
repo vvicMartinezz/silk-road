@@ -2,7 +2,7 @@
 author: victor martinez
 title: "Parthian Trade, Identity, and Cultual Influence"
 layout: base
-header-image: images/Persia.png
+header-image: images/parthianheading.png
 thumbnail: images/Persia.png
 summary: In the premodern era, Persia was an important part of the Silk Road Trade Network.
 ---

@@ -2,7 +2,7 @@
 author: victor martinez
 title: "Korean Cultural Exchange and the Silla Kingdom"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
+header-image: images/koreaheading.png
 thumbnail: images/Korean.jpg
 summary: The Silla Kingdom was key to gold moving along the Silk Road.
 ---
